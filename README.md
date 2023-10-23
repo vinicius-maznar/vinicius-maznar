@@ -1,4 +1,3 @@
-
 # 🧙🏾‍♂️ MARCOS VINICIUS AZNAR DA SILVA
 
 - 34 anos;
@@ -9,6 +8,20 @@
 
 ## 🏹 MINHAS METAS (EM 5 ANOS)
 - Em cinco anos, quero meu aluguel e vida estáveis no meu pequeno apartamento aconchegante, com dinheiro de sobra para curtir meus pequenos prazeres pessoais que resignificam a minha vida, e trabalhando de forma híbrida com tecnologia e com a minha terapia e tratamentos psiquiátricos em dia 💗;
+
+# 🗽 In English
+
+# 🧙🏾‍♂️ MARCOS VINICIUS AZNAR DA SILVA
+
+34 years old;
+🏳‍🌈 Gay (He/Him);
+A borderline reforming his paradigms 🦾;
+Passionate about JAVA ☕ and SQL;
+Singing at the piano is a hobby 🎹🎤;
+
+## 🏹 MINHAS METAS (EM 5 ANOS)
+
+In five years, I want my rent and life to be stable in my cozy little apartment, with extra money to enjoy my small personal pleasures that redefine my life, and working in a hybrid way with technology, with my therapy and psychiatric treatments up to date 💗;
 
 ## 👨‍💻 STATS
 
