@@ -13,17 +13,17 @@
 
 # 🧙🏾‍♂️ MARCOS VINICIUS AZNAR DA SILVA
 
-34 years old;
-🏳‍🌈 Gay (He/Him);
-A borderline reforming his paradigms 🦾;
-Passionate about JAVA ☕ and SQL;
-Singing at the piano is a hobby 🎹🎤;
+- 34 years old;
+- 🏳‍🌈 Gay (He/Him);
+- A borderline reforming his paradigms 🦾;
+- Passionate about JAVA ☕ and SQL 🗄;
+- Singing at the piano is a hobby 🎹🎤;
 
-## 🏹 MINHAS METAS (EM 5 ANOS)
+## 🏹 PERSONAL GOALS
 
-In five years, I want my rent and life to be stable in my cozy little apartment, with extra money to enjoy my small personal pleasures that redefine my life, and working in a hybrid way with technology, with my therapy and psychiatric treatments up to date 💗;
+- In five years, I want my rent and life to be stable in my cozy little apartment, with extra money to enjoy my small personal pleasures that redefine my life, and working in a hybrid way with technology, with my therapy and psychiatric treatments up to date 💗;
 
-## 👨‍💻 STATS
+# 👨‍💻 STATS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-maznar&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
