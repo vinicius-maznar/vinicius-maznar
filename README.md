@@ -21,7 +21,7 @@
 
 ## 🏹 PERSONAL GOALS
 
-- In five years, I want my rent and life to be stable in my cozy little apartment, with extra money to enjoy my small personal pleasures that redefine my life, and working in a hybrid way with technology, with my therapy and psychiatric treatments up to date 💗;
+- In five years, I want my rent and life to be stable in my small, cozy apartment, with enough money to enjoy my small personal pleasures that give my life meaning, and working in a hybrid way with technology and with my therapy and psychiatric treatments up to date.
 
 # 👨‍💻 STATS
 
