@@ -11,7 +11,7 @@
 
 ### 🗽 In English
 
-# 🧙🏾‍♂️ MARCOS VINICIUS AZNAR DA SILVA
+# 🧙‍♀️ MARCOS VINICIUS AZNAR DA SILVA
 
 - 34 years old;
 - 🏳‍🌈 Gay (He/Him);
