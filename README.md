@@ -4,6 +4,7 @@
 - 🏳‍🌈 Gay (He/Him);
 - Um borderliner reformando seus paradigmas 🦾; 
 - Apaixonado por JAVA ☕ e SQL;
+- Me lapidando como Desenvolvedor Backend;
 - Cantar ao piano é um hobby 🎹🎤;
 
 ## 🏹 MINHAS METAS (EM 5 ANOS)
@@ -17,6 +18,7 @@
 - 🏳‍🌈 Gay (He/Him);
 - A borderline reforming his paradigms 🦾;
 - Passionate about JAVA ☕ and SQL 🗄;
+- Building up myself as a Backend Developer;
 - Singing at the piano is a hobby 🎹🎤;
 
 ## 🏹 PERSONAL GOALS
